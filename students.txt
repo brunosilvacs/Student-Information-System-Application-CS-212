@@ -1,0 +1,7 @@
+1,hello,World,3.4
+5,John,Doe,3.4
+10,Janet,Doe,2.8
+15,Sarit,Agrawal,3.2
+20,Xiu,Li,3.5
+23,Lisa,Domingo,3.999
+30,Jennifer,Long,2.4
